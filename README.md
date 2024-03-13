@@ -1,10 +1,21 @@
 ### Omar Alsadi Sánchez
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lokrag)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernandez-2a721a266/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alsadi-sanchez-168000109/)
 
 
 # About me 
+# Hello everyone! 👋
+
+I am **Omar**, a programming enthusiast and newcomer to the world of computing. I recently left my job as a waiter and now I am studying at 42 Madrid. My language of choice is **C**, and I'm excited to learn more and build interesting projects.
+
+I am always willing to collaborate on projects, so there are no people contacting me. Let's code together! 🚀
+
+# ¡Hola a todos! 👋
+
+Soy **Omar**, un entusiasta de la programación y recién llegado al mundo de la informática. Hace poco dejé mi trabajo como mozo y ahora estoy estudiando en 42 Madrid. Mi lenguaje de elección es **C**, y estoy emocionado por aprender más y construir proyectos interesantes.
+
+Siempre estoy dispuesto a colaborar en proyectos, así que no dudes en contactarme. ¡Vamos a codear juntos! 🚀
 
 
 
