@@ -46,8 +46,8 @@ Siempre estoy dispuesto a colaborar en proyectos, así que no dudes en contactar
 ## My Github Info 📊
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lokrag&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lokrag&count_private=true&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokrag&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokrag&layout=compact&theme=outrun&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
