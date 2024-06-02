@@ -18,7 +18,9 @@ Soy **Omar**, un entusiasta de la programación y recién llegado al mundo de la
 
 Siempre estoy dispuesto a colaborar en proyectos, así que no dudes en contactarme. ¡Vamos a codear juntos! 🚀
 
+badges
 
+<iframe src="https://api.eu.badgr.io/public/assertions/AwfNGlRySDGOIRCtUhdgwg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=omar00nyu%40gmail.com" title="Badge: Piscine Discovery CyberSec - Participación" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 ## Languages and Tools
 
